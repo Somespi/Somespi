@@ -1,9 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner2.jpeg" alt="cover" />
-</div>
-
-<h1> Hello! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
 
 </p>
 <div size='20px'> Hi! My name is Someone. . Thank You for taking the time to view my GitHub Profile :smile: 
@@ -13,7 +7,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Bloc, CODE
+- 🔭 I’m currently working on Hino API package
 
 - 🌱 I’m currently learning Machine Learning, Web Design  
 
