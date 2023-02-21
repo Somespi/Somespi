@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on WrapCord
 
-- 🌱 I’m currently learning openGL, pygame, reactnative , Web Design  
+- 🌱 I’m currently learning Rust
 
 - 💬 Talk to me about Python, C++ 
 
