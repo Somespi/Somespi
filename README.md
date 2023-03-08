@@ -1,6 +1,17 @@
 
 </p>
-<div size='20px'> Hi! My name is Someone. . Thank You for taking the time to view my GitHub Profile 
+
+```py
+let dict = {
+  "status":"Nevermind!"
+}
+```
+```
+SyntaxError: `let` in py ?
+
+let dict = {
+^^^---------
+```
 </div>
 
 <h2> About Me</h2>
