@@ -10,7 +10,7 @@ let dict = {
 SyntaxError: `let` in py ?
 
 let dict = {
-^^^---------
+^^^^--------
 ```
 </div>
 
