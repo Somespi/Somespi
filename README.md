@@ -8,15 +8,6 @@ Bad developer who is  creating incomplete projects.
  ![JSON](https://img.shields.io/badge/-JSON-FFDF00?style=for-the-badge&logo=JSON&logoColor=black)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![REPL.IT](https://img.shields.io/badge/-repl.it-FF5F00?style=for-the-badge&logo=replit&logoColor=white) ![vscode](https://img.shields.io/badge/-vscode-0E87CC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=somespi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somespi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=somespi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-#### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=somespi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=somespi&icon=6&color=4)](https://visitcount.itsvg.in)
