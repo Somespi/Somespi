@@ -4,7 +4,7 @@ Bad developer who is  creating incomplete projects.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=supabase,vercel,vscode" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=py,js,ts,rust" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,zig" />
     <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,svelte,tailwind,wasm" />
     <br/>
