@@ -1,4 +1,3 @@
-Bad developer who is  creating incomplete projects.
 
 <p align="center">
   <a href="https://skillicons.dev">
